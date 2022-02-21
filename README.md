@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Plataforma-Potencias-Perifericas
+- 👀 I'm interested in digital democracy...
+- 💞️ I seek to collaborate with technology for the peripheries ...
+- 📫 How to reach me: ppp.plataforma@gmail.com ...
+
+<!---
+Plataforma-Potencias-Perifericas/Plataforma-Potencias-Perifericas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
